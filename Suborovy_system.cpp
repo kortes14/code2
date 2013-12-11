@@ -8,7 +8,7 @@ int vypocet_velkosti() {
 
 	return 0;
 }
-
+//druhy komentar 
 //pridalsom komentar
 void main() {
 	
